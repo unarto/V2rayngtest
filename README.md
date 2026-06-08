@@ -32,3 +32,4 @@ v2rayNG can run on Android Emulators. For WSA, VPN permission need to be granted
 `appops set [package name] ACTIVATE_VPN allow`
 # V2rayngtest
 # V2rayngtest
+# V2rayngtest
